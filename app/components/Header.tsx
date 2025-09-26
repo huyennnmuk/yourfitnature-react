@@ -76,8 +76,8 @@ export default function Header({ navItems = defaultNavItems, secondaryNavItems =
             <div className="flex items-center justify-center flex-shrink-0">
               <Link href="/" className="block" aria-label="YourFitNature Home">
                 <Image
-                  src="/images/YourFitNatureplusdescription.svg"
-                  alt="YourFitNatureplusdescription Logo"
+                  src="/images/YourFitNatureplusDescription.png"
+                  alt="YourFitNatureplusDescription Logo"
                   width={260}
                   height={64}
                   priority
