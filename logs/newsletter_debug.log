@@ -1,0 +1,13 @@
+2025-07-31T06:50:06.688Z - Email: test121@gmail.com, Source: footer, Success: true
+2025-08-06T09:19:07.670Z - Email: testquiz@gmail.com, Source: quiz-results, Success: false
+2025-08-06T09:19:22.325Z - Email: testfooter@gmail.com, Source: footer, Success: false
+2025-08-06T09:24:52.346Z - Email: testfooter@gmail.com, Source: footer, Success: true
+2025-08-06T11:50:33.968Z - Email: testfooter@gmail.com, Source: quiz-results, Success: true
+2025-08-10T10:08:20.651Z - Email: test@gmail.com, Source: blog-sidebar, Success: true
+2025-08-13T05:30:39.118Z - Email: testquiz@gmail.com, Source: quiz-results, Success: true
+2025-08-19T10:59:42.279Z - Email: test@gmail.com, Source: related-blog-post-sidebar, Success: false
+2025-08-19T10:59:56.204Z - Email: test@gmail.com, Source: footer, Success: false
+2025-08-19T11:00:35.424Z - Email: test@gmail.com, Source: product-sidebar, Success: true
+2025-08-19T11:00:50.767Z - Email: testdsds@gmail.com, Source: product-sidebar, Success: true
+2025-08-21T04:34:08.330Z - Email: testbloatingcourse@gmail.com, Source: bloating-blueprint-course, Success: true
+2025-08-23T08:36:47.452Z - Email: test@gmail.com, Source: footer, Success: true

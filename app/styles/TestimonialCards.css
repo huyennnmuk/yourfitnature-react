@@ -1,0 +1,43 @@
+/* CSS for TestimonialCards component */
+
+@keyframes testimonial-scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.testimonial-scroller {
+    max-width: 100%;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to right, transparent, #000 20%, #000 80%, transparent);
+    mask-image: linear-gradient(to right, transparent, #000 20%, #000 80%, transparent);
+}
+
+.testimonial-scroller__inner {
+    display: flex;
+    flex-wrap: nowrap;
+    width: max-content;
+    animation-name: testimonial-scroll;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.testimonial-scroller__inner:hover {
+    animation-play-state: paused;
+}
+
+.testimonial-card-3d-container {
+  perspective: 1000px;
+}
+
+.testimonial-card-3d {
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transform-style: preserve-3d;
+}
+
+.testimonial-card-3d:hover {
+  transform: rotateY(15deg) rotateX(5deg) scale(1.05);
+}

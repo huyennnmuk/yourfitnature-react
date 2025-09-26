@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitNature Bloating & Hormones Workshop Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main Session Selection -->
+    <div id="sessionSelection" class="session-selection">
+        <div class="container">
+            <header class="workshop-header">
+                <h1>FitNature Workshop Series</h1>
+                <h2>Bloating & Hormones: Working With Your Cycle</h2>
+                <p>Select a workshop phase to begin your presentation</p>
+            </header>
+
+            <div class="session-grid">
+                <!-- Follicular Phase -->
+                <div class="session-card follicular" data-session="follicular">
+                    <div class="session-image">
+                        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/6f1ba961-8def-4056-af80-a62d5f39ca38.png" alt="Follicular Phase" />
+                    </div>
+                    <div class="session-content">
+                        <h3>Follicular Phase</h3>
+                        <h4>Fresh Start, Rising Energy</h4>
+                        <p>Days 1-7: Understanding your body's renewal phase</p>
+                        <div class="session-features">
+                            <span>12 slides</span>
+                            <span>Interactive polls</span>
+                            <span>Evidence-based protocols</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Ovulatory Phase -->
+                <div class="session-card ovulatory" data-session="ovulatory">
+                    <div class="session-image">
+                        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/58afeb20-eec9-4032-87c4-6cb8b8b4698b.png" alt="Ovulatory Phase" />
+                    </div>
+                    <div class="session-content">
+                        <h3>Ovulatory Phase</h3>
+                        <h4>Peak Energy, Peak Potential</h4>
+                        <p>Days 8-14: Harnessing your natural energy surge</p>
+                        <div class="session-features">
+                            <span>12 slides</span>
+                            <span>Peak performance</span>
+                            <span>Energy optimization</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Luteal Phase -->
+                <div class="session-card luteal" data-session="luteal">
+                    <div class="session-image">
+                        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/4d382114-1ce0-4099-9b49-5656c77ef993.png" alt="Luteal Phase" />
+                    </div>
+                    <div class="session-content">
+                        <h3>Luteal Phase</h3>
+                        <h4>Sustainable Strength</h4>
+                        <p>Days 15-28: Managing PMS with compassionate protocols</p>
+                        <div class="session-features">
+                            <span>12 slides</span>
+                            <span>PMS management</span>
+                            <span>Comfort strategies</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Menstrual Phase -->
+                <div class="session-card menstrual" data-session="menstrual">
+                    <div class="session-image">
+                        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/4000daf4-ebbd-49b1-ad60-657b0e0c0dd8.png" alt="Menstrual Phase" />
+                    </div>
+                    <div class="session-content">
+                        <h3>Menstrual Phase</h3>
+                        <h4>Rest & Reset</h4>
+                        <p>Days 1-7: Sacred rest and cycle completion</p>
+                        <div class="session-features">
+                            <span>12 slides</span>
+                            <span>Sacred rest</span>
+                            <span>Cycle wisdom</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Presentation View -->
+    <div id="presentationView" class="presentation-view hidden">
+        <!-- Presentation Header -->
+        <div class="presentation-header">
+            <div class="presentation-nav">
+                <button id="backToSessions" class="btn btn--secondary">← All Sessions</button>
+                <div class="session-title-header">
+                    <h2 id="currentSessionTitle"></h2>
+                    <p id="currentSessionSubtitle"></p>
+                </div>
+                <div class="presentation-controls">
+                    <button id="fullscreenBtn" class="btn btn--outline">Fullscreen</button>
+                </div>
+            </div>
+            
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+                <div class="progress-text">
+                    <span id="currentSlide">1</span> of <span id="totalSlides">12</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide Content -->
+        <div class="slide-container">
+            <div id="slideContent" class="slide-content">
+                <!-- Slide content will be dynamically loaded here -->
+            </div>
+        </div>
+
+        <!-- Navigation Controls -->
+        <div class="slide-navigation">
+            <button id="prevSlide" class="btn btn--secondary" disabled>← Previous</button>
+            <div class="slide-dots" id="slideDots"></div>
+            <button id="nextSlide" class="btn btn--primary">Next →</button>
+        </div>
+    </div>
+
+    <!-- Fullscreen Modal -->
+    <div id="fullscreenModal" class="fullscreen-modal hidden">
+        <div class="fullscreen-content">
+            <div class="fullscreen-header">
+                <div class="fullscreen-title">
+                    <h2 id="fullscreenSessionTitle"></h2>
+                    <div class="fullscreen-progress">
+                        <span id="fullscreenCurrentSlide">1</span> / <span id="fullscreenTotalSlides">12</span>
+                    </div>
+                </div>
+                <button id="exitFullscreen" class="btn btn--outline">Exit Fullscreen</button>
+            </div>
+            
+            <div class="fullscreen-slide">
+                <div id="fullscreenSlideContent" class="slide-content">
+                    <!-- Fullscreen slide content -->
+                </div>
+            </div>
+            
+            <div class="fullscreen-navigation">
+                <button id="fullscreenPrev" class="btn btn--secondary" disabled>← Previous</button>
+                <button id="fullscreenNext" class="btn btn--primary">Next →</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

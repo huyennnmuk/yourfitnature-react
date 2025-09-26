@@ -1,0 +1,59 @@
+## Instruction: Layout UI for Table of Contents (TOC)
+
+Here’s a clear instruction for designing a UI layout for a Table of Contents (TOC) for a blog or documentation page such as "Startup Accounting: Everything You Need to Know":
+
+***
+
+### 1. **TOC Container**
+- Position: Fixed or sticky on the left or right side of the main content (desktop); collapsible drawer or dropdown above content (mobile).
+- Width: 220–300px for side placement.
+- Spacing: Well-padded (e.g., 16px–24px inside) for readability.
+
+### 2. **Header**
+- Text: "Table of Contents" or "On this page"
+- Style: Bold, slightly larger than section links (e.g., 18–20px)
+- Optional icon: A list or summary icon for visual clarity.
+
+### 3. **TOC Items (Sections)**
+- Display: Vertical list of anchors/links to each section (e.g., H2/H3 anchors).
+- Indentation: 
+  - Level 1 (H2): Normal padding.
+  - Level 2+ (H3, H4): Indented (e.g., 16px per level).
+- Active item highlight: Distinct background, accent line, or bold/colored text represents the currently viewed section.
+- Spacing: 8–12px between items.
+
+### 4. **Link Functionality**
+- Clickable: Every TOC item scrolls the main content smoothly to the matching heading.
+- Accessibility: Use semantic elements (``, ``, ``, ``) for screen readers.
+- Keyboard navigation: Allow tabbing and enter/space to activate links.
+
+### 5. **Responsiveness**
+- On screens <800px: Hide TOC by default; show behind a "Contents" button or dropdown.
+- On screens ≥800px: Sticky/fixed sidebar remains visible as you scroll.
+
+### 6. **Optional Enhancements**
+- Collapsible subsections: Toggle nested TOC items for long content.
+- Progress indicator: Visual cue alongside TOC showing scroll progress or section completion.
+- Quick “Back to Top” link at top or bottom.
+
+***
+
+#### Example UI Structure (Markdown for visualization)
+
+```markdown
+| Table of Contents          |
+|---------------------------|
+| 1. Introduction           |
+| 2. Why Accounting Matters |
+|     - Role in Success     |
+| 3. Accounting Basics      |
+|     - Key Reports         |
+|     - Chart of Accounts   |
+| 4. Tips for Startups      |
+```
+
+***
+
+By following these instructions, your TOC will be intuitive, accessible, and effective for users navigating in-depth content.
+
+[1] https://ramp.com/blog/accounting-for-startups#Role-of-accounting-in-startup-success

@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ResourcesPage matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="p-6 max-w-4xl mx-auto"
+  >
+    <h1
+      class="text-4xl font-bold mb-6"
+    >
+      Resources
+    </h1>
+    <p
+      class="mb-6"
+    >
+      Here are some recommended products and services to help you on your bloat-free journey. (Note: Some of these are affiliate links).
+    </p>
+    <div
+      class="flex flex-col gap-8"
+    >
+      <div
+        class="p-6 rounded-lg"
+      >
+        <h2
+          class="text-2xl font-bold mb-4"
+        >
+          Meal Delivery Services
+        </h2>
+        <ul
+          class="list-disc list-inside space-y-2"
+        >
+          <li>
+            <a
+              class="text-blue-500 hover:underline"
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Green Chef
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-500 hover:underline"
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              HelloFresh
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-500 hover:underline"
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Daily Harvest
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="p-6 rounded-lg"
+      >
+        <h2
+          class="text-2xl font-bold mb-4"
+        >
+          Specialty Foods
+        </h2>
+        <ul
+          class="list-disc list-inside space-y-2"
+        >
+          <li>
+            <a
+              class="text-blue-500 hover:underline"
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Thrive Market
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-blue-500 hover:underline"
+              href="#"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Imperfect Foods
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

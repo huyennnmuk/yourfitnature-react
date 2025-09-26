@@ -1,0 +1,157 @@
+'use client';
+import { useState, useEffect, useRef } from 'react';
+
+const carouselContent = [
+    {
+        title: "Gain Intelligence",
+        description: "Built on insights from 500+ gut health studies and reviews."
+    },
+    {
+        title: "Gain Efficiency",
+        description: "98% of gut routines show improvement—most in the first 4 weeks."
+    },
+    {
+        title: "Gain Clarity",
+        description: "One daily supplement routine. Zero confusion. Visible results."
+    },
+    {
+        title: "Gain Awareness",
+        description: "Multi-angle wellness insights for your digestion, energy, and mood."
+    }
+];
+
+const FitnatureSection = () => {
+    const [activeSlide, setActiveSlide] = useState(0);
+    const slideRefs = useRef<(HTMLDivElement | null)[]>([]);
+
+    useEffect(() => {
+        const observer = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting) {
+                        const slideIndex = parseInt(entry.target.getAttribute('data-slide-index') || '0', 10);
+                        setActiveSlide(slideIndex);
+                    }
+                });
+            },
+            {
+                root: null,
+                threshold: 0.5,
+            }
+        );
+
+        const refs = slideRefs.current;
+        refs.forEach((ref) => {
+            if (ref) observer.observe(ref);
+        });
+
+        return () => {
+            refs.forEach((ref) => {
+                if (ref) observer.unobserve(ref);
+            });
+        };
+    }, []);
+
+    const handleDotClick = (index: number) => {
+        slideRefs.current[index]?.scrollIntoView({
+            behavior: 'smooth',
+            block: 'center',
+        });
+    };
+
+    return (
+        <section data-section="stickyCarousel" className="fitnature-section-bg">
+            <div className="sr-only">
+                <h1>Find your strength with FitNature</h1>
+                <p>We sort through the clutter of gut products so you don’t have to.</p>
+                {carouselContent.map((item, index) => (
+                    <div key={index}>
+                        <h2>{item.title}</h2>
+                        <p>{item.description}</p>
+                    </div>
+                ))}
+            </div>
+            <div data-viewport-enter="true" className="mx-auto flex max-w-[90%] flex-col items-center gap-[25px] text-balance pt-[40px] text-center desktopAnim:hidden" style={{ opacity: 1 }}>
+                <h2 className="typography-h2 text-grey">Find your strength with FitNature</h2>
+                <p className="typography-label text-grey">We sort through the clutter of gut products so you don’t have to.</p>
+            </div>
+            <div
+                id="carousel-wrapper"
+                className="w-screen-scroll relative md:-ml-gutter-desktop"
+                style={{ overflowY: 'scroll' }}>
+                <div className="sticky top-0 h-[100svh]">
+                    <div className="h-full w-full">
+                        <div className="relative mx-auto max-w-screen-xl md:px-2">
+                            <section className="relative flex h-screen flex-col items-center justify-center gap-6 pt-4 desktopAnimTop:pt-0">
+                                {/* Only show this heading on desktop, not mobile */}
+                                <div data-viewport-enter="true" className="hidden flex-col items-center gap-1 pt-12 md:pt-0 desktopAnim:flex" style={{ opacity: 1 }}>
+                                    <h2 className="text-4xl font-light text-[var(--camber-sage-charcoal)] glow-text">Find your calm with Camber</h2>
+                                    <p className="text-lg text-[var(--camber-sage-deep)]">We focus on the critical components of healthcare admin so you don’t have to.</p>
+                                </div>
+                                <div
+                                    data-viewport-enter="true"
+                                    className="stack relative mt-[2svh] h-full max-h-[80dvh] w-full overflow-x-clip md:max-h-[600px] md:max-w-[800px] md:overflow-x-visible desktopAnim:mt-0 desktopAnim:max-w-[800px]"
+                                    style={{ opacity: 1 }}>
+                                    {/* Background image */}
+                                    <div
+                                        className="absolute inset-0 bg-no-repeat bg-center bg-contain pointer-events-none"
+                                        style={{
+                                            backgroundImage: `url('https://www.camber.health/_next/static/media/background.de0d8c59.svg')`,
+                                            zIndex: 0,
+                                        }}></div>
+                                    {/* Blur overlay */}
+                                    <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] rounded-full bg-white/50 blur-3xl pointer-events-none" style={{ zIndex: 1 }}></div>
+                                    {/* Carousel content and dots centered */}
+                                    <div className="absolute inset-0 flex flex-col items-center justify-center z-10">
+                                        <div className="flex-grow flex flex-col items-center justify-center gap-1">
+                                            {carouselContent.map((item, index) => (
+                                                <div
+                                                    key={index}
+                                                    data-slide-index={index}
+                                                    className="absolute top-0 left-0 w-full h-full flex flex-col items-center justify-center transition-opacity duration-500"
+                                                    style={{ opacity: activeSlide === index ? 1 : 0 }}>
+                                                    <h2 className="text-lg font-semibold text-[var(--camber-sage-deep)]">{item.title}</h2>
+                                                    <p className="text-5xl font-light text-[var(--camber-sage-charcoal)] text-center max-w-lg glow-text">{item.description}</p>
+                                                </div>
+                                            ))}
+                                        </div>
+                                        <div className="mt-4 flex w-full justify-center gap-2 md:mt-4">
+                                            {carouselContent.map((_, index) => (
+                                                <button
+                                                    key={index}
+                                                    onClick={() => handleDotClick(index)}
+                                                    className={`size-[10px] rounded-full transition-colors ${index === activeSlide ? 'bg-[var(--camber-sage-charcoal)]' : 'bg-[var(--camber-sage-light)]'}`}
+                                                    aria-label={`Go to slide ${index + 1}`} />
+                                            ))}
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="button" className="hidden desktopAnim:block bg-[var(--camber-secondary)] text-[var(--camber-sage-charcoal)] px-8 py-3 rounded-full font-semibold btn-secondary">
+                                    Book A Demo
+                                </button>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+                <div className="relative">
+                    {carouselContent.map((item, index) => (
+                        <div
+                            key={index}
+                            ref={(el) => (slideRefs.current[index] = el)}
+                            data-slide-index={index}
+                            className='h-screen'
+                            aria-hidden={activeSlide !== index}
+                        />
+                    ))}
+                </div>
+            </div>
+            <div className="flex justify-center py-5 desktopAnim:hidden">
+                <button type="button" className="bg-[var(--camber-secondary)] text-[var(--camber-sage-charcoal)] px-8 py-3 rounded-full font-semibold btn-secondary">
+                    Book a Demo
+                </button>
+            </div>
+        </section>
+    );
+};
+
+export default FitnatureSection;

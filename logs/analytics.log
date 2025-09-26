@@ -1,0 +1,388 @@
+[2025-08-06T11:50:56.064Z] tracker_download {"timestamp":"2025-08-06T11:50:55.812Z"}
+[2025-08-06T11:51:39.772Z] tracker_download {"timestamp":"2025-08-06T11:51:39.760Z"}
+[2025-08-06T13:38:15.080Z] tracker_download {"timestamp":"2025-08-06T13:38:14.431Z"}
+[2025-08-06T13:45:04.210Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-06T13:45:55.188Z] Click {"category":"Affiliate","label":"Thrive Market"}
+[2025-08-06T13:46:15.314Z] Download {"category":"PDF","label":"3-Day Bloating-Free Meal Plan"}
+[2025-08-10T04:00:52.482Z] Click {"category":"Affiliate","label":"Thrive Market"}
+2025-08-12T08:03:04.942Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:03:06.081Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:03:12.380Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:03:46.495Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:05:22.398Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:05:39.439Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:07:23.192Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=30ef94a27078f429 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:15:24.608Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=30ef94a27078f429 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:16:27.044Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=30ef94a27078f429 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:17:18.869Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:19:04.690Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:21:36.045Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:22:55.240Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=10893297c5724a51 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:23:56.252Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=10893297c5724a51 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:25:07.754Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=10893297c5724a51 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:28:23.193Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=d9702e971ac80104 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:28:53.329Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=f85035ad953cc5ce ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:34:24.286Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=noop user_hash=10893297c5724a51 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:35:21.071Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=2c48f041032f725d ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T08:42:31.436Z - feedback_vote - blog_id=UI Style Test for Blog Elements vote_type=helpful result=created user_hash=9838bfdc433b6f82 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:15:19.045Z - feedback_vote - blog_id=sample-post vote_type=helpful result=created user_hash=9838bfdc433b6f82 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:36:40.272Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=created user_hash=6813a3e125bbfd5f ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:37:06.218Z - feedback_vote - blog_id=sample-post vote_type=helpful result=created user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:38:11.492Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=created user_hash=c842a936e659fc77 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:39:09.436Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=created user_hash=b77d728f18e01f40 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:46:24.096Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=noop user_hash=b77d728f18e01f40 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-12T09:46:32.119Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=noop user_hash=b77d728f18e01f40 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:11:18.741Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=created user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:20:15.401Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=noop user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:21:11.023Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=noop user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:21:30.805Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=created user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:21:52.151Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=updated user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:22:52.398Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=updated user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:23:05.791Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=updated user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-13T03:23:13.040Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=updated user_hash=4dd6e5fb191f0f80 ip_hash=eff8e7ca506627fe source=blog_page
+[2025-08-13T05:30:05.159Z] tracker_download {"timestamp":"2025-08-13T05:30:04.368Z"}
+2025-08-19T10:58:51.133Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=not_helpful result=updated user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-08-19T10:59:14.123Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=updated user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+[2025-08-20T06:49:13.934Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T11:06:51.105Z] tracker_download {"timestamp":"2025-08-20T11:06:49.926Z"}
+[2025-08-20T11:09:18.863Z] tracker_download {"timestamp":"2025-08-20T11:09:18.807Z"}
+[2025-08-20T11:09:30.813Z] tracker_download {"timestamp":"2025-08-20T11:09:30.778Z"}
+[2025-08-20T11:09:33.258Z] tracker_download {"timestamp":"2025-08-20T11:09:33.215Z"}
+[2025-08-20T11:11:23.851Z] tracker_download {"timestamp":"2025-08-20T11:11:22.274Z"}
+[2025-08-20T11:12:04.138Z] tracker_download {"timestamp":"2025-08-20T11:12:04.055Z"}
+[2025-08-20T11:12:07.879Z] tracker_download {"timestamp":"2025-08-20T11:12:07.749Z"}
+[2025-08-20T11:12:09.853Z] tracker_download {"timestamp":"2025-08-20T11:12:09.764Z"}
+[2025-08-20T11:12:20.155Z] tracker_download {"timestamp":"2025-08-20T11:12:20.026Z"}
+[2025-08-20T11:16:50.654Z] tracker_download {"timestamp":"2025-08-20T11:16:50.177Z"}
+[2025-08-20T11:38:21.890Z] Download {"category":"PDF","label":"7-Day Bloating Reset Tracker","timestamp":"2025-08-20T11:38:21.512Z"}
+[2025-08-20T11:50:57.620Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T11:53:00.326Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T11:53:04.805Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T11:53:38.390Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T11:54:31.577Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-08-20T12:06:19.775Z] Download {"category":"PDF","label":"3-Day Bloating-Free Meal Plan"}
+[2025-08-20T13:34:48.763Z] Download {"category":"PDF","label":"3-Day Bloating-Free Meal Plan"}
+[2025-08-20T13:34:53.322Z] Download {"category":"PDF","label":"3-Day Bloating-Free Meal Plan"}
+[2025-08-20T13:34:58.347Z] Download {"category":"PDF","label":"7-Day Bloating-Free Meal Plan"}
+[2025-08-20T13:35:09.374Z] Download {"category":"PDF","label":"7-Day Bloating-Free Meal Plan"}
+[2025-08-21T04:27:37.504Z] Download {"category":"PDF","label":"3-Day Bloating-Free Meal Plan"}
+[2025-08-21T04:27:42.721Z] Download {"category":"PDF","label":"7-Day Bloating-Free Meal Plan"}
+[2025-08-21T08:27:09.260Z] Download {"category":"PDF","label":"7-Day Bloating Reset Tracker","timestamp":"2025-08-21T08:27:08.464Z"}
+[2025-08-21T08:32:14.976Z] Download {"category":"Supplement Protocol","label":"Personalized Supplement Protocol","timestamp":"2025-08-21T08:32:14.674Z"}
+[2025-08-25T06:52:35.353Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:52:35.354Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:52:40.098Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:52:40.099Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:53:21.722Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:53:21.723Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:53:36.506Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:53:36.507Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:54:33.860Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T06:54:33.862Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:03:05.987Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:03:05.988Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:03:32.781Z] calendar_add_attempt {"calendar_platform":"main_button","session_type":"follicular"}
+[2025-08-25T07:03:33.777Z] calendar_add_success {"calendar_platform":"main_button","session_type":"follicular"}
+[2025-08-25T07:03:41.082Z] preworkshop_download {"file_type":"Quick Cycle Assessment","session_type":"follicular","download_order":1}
+[2025-08-25T07:03:46.826Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:03:46.827Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:19.969Z] preworkshop_download {"file_type":"Workshop Preparation Guide","session_type":"follicular","download_order":2}
+[2025-08-25T07:04:25.725Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:25.726Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:27.818Z] preworkshop_download {"file_type":"Technical Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:04:29.911Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:29.911Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:34.190Z] preworkshop_download {"file_type":"Cycle Tracking Template","session_type":"follicular","download_order":4}
+[2025-08-25T07:04:37.622Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:37.623Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:04:45.194Z] poll_submission {"poll_answer":"clicked_poll_button","session_type":"follicular"}
+[2025-08-25T07:06:09.894Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:06:10.932Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:10:12.647Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:10:13.414Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:10:22.080Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:10:23.103Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:10:24.718Z] calendar_add_attempt {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:10:25.711Z] calendar_add_success {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:15:44.931Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:15:45.948Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:17:56.059Z] calendar_add_attempt {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:17:57.086Z] calendar_add_success {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:18:26.844Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:18:27.858Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:18:29.768Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:18:30.749Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:18:32.697Z] calendar_add_attempt {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:18:33.740Z] calendar_add_success {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:20:54.324Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:20:54.325Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:20:56.876Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:20:56.936Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:21:10.265Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:21:10.320Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:21:27.863Z] calendar_add_attempt {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:21:28.017Z] calendar_add_success {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:21:32.631Z] calendar_add_attempt {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:21:32.680Z] calendar_add_success {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:22:15.624Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:22:15.625Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:22:17.965Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:22:18.026Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:22:24.261Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:22:24.314Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:23:17.949Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:23:18.001Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:23:58.680Z] calendar_add_attempt {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:23:59.124Z] calendar_add_success {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:25:40.226Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:25:40.264Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:26:17.331Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:26:17.387Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:27:40.621Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:27:40.633Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:27:50.423Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:27:50.485Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T07:27:58.328Z] calendar_add_attempt {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:27:58.359Z] calendar_add_success {"calendar_platform":"outlook","session_type":"follicular"}
+[2025-08-25T07:28:03.623Z] calendar_add_attempt {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:28:03.859Z] calendar_add_success {"calendar_platform":"apple","session_type":"follicular"}
+[2025-08-25T07:28:08.022Z] calendar_add_attempt {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:28:08.056Z] calendar_add_success {"calendar_platform":"yahoo","session_type":"follicular"}
+[2025-08-25T07:32:52.223Z] preworkshop_download {"file_type":"Tech Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:33:16.831Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:33:16.832Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:40:23.811Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:40:23.812Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:40:39.891Z] preworkshop_download {"file_type":"Tech Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:42:45.377Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:42:45.378Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:43:38.355Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:43:38.356Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:44:03.683Z] preworkshop_download {"file_type":"Tech Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:46:05.651Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:46:05.652Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:47:15.123Z] preworkshop_download {"file_type":"Tech Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:48:20.030Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:48:20.031Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:48:21.951Z] preworkshop_download {"file_type":"Tech Setup Checklist","session_type":"follicular","download_order":3}
+[2025-08-25T07:49:54.872Z] poll_submission {"poll_answer":"clicked_poll_button","session_type":"follicular"}
+[2025-08-25T07:50:07.638Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:50:07.639Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:54:32.305Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T07:54:32.306Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:06:11.296Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:06:11.297Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:13:06.242Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:13:06.243Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:16:15.735Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:16:15.736Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:16:52.773Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:16:52.774Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:17:42.126Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:17:42.126Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:22:42.944Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:22:42.945Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:30:06.273Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:30:06.274Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:32:55.759Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:32:55.761Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:43:31.899Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:43:31.900Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:43:46.103Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:43:46.103Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:44:18.111Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:44:18.112Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:45:19.870Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:45:19.872Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:47:13.797Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T08:47:13.798Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:26:41.879Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:26:41.882Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:26:42.908Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:26:42.910Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:31:09.945Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:31:09.946Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:42:44.397Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:42:44.397Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:42:57.235Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:42:57.236Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:43:04.716Z] preworkshop_download {"file_type":"Quick Cycle Assessment","session_type":"menstrual","download_order":1}
+[2025-08-25T12:43:41.083Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:43:41.084Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:45:02.557Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:45:02.557Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:46:14.827Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:46:14.827Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:47:12.957Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:47:12.958Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:47:34.721Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:47:34.722Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:48:52.735Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T12:48:52.738Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:06:57.548Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:06:57.550Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:07:19.987Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:07:19.988Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:18:50.972Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:18:50.974Z] workshop_confirmation_view {"session_type":"menstrual","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:18:52.425Z] preworkshop_download {"file_type":"Workshop Prep Guide","session_type":"menstrual","download_order":2}
+[2025-08-25T13:26:51.821Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:26:51.822Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:28:22.524Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:28:22.526Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:28:45.942Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:28:45.943Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:33:29.185Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:33:29.185Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:37:02.913Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:37:02.915Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:41:51.673Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:41:51.675Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:45:18.927Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:45:18.929Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:54:57.336Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T13:54:57.337Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T13:55:47.032Z] registration_form_submit 
+[2025-08-25T13:55:49.811Z] registration_success {"registration_id":"reg_a24e480a-f6dc-420b-b827-686970478ec0","session_type":"ovulatory"}
+[2025-08-25T13:55:49.812Z] redirect_to_confirmation {"registration_id":"reg_a24e480a-f6dc-420b-b827-686970478ec0","session_type":"ovulatory"}
+[2025-08-25T13:55:50.277Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T13:55:50.278Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:02:01.132Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:02:46.111Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T14:02:46.111Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T14:03:02.739Z] registration_form_submit 
+[2025-08-25T14:03:05.401Z] registration_success {"registration_id":"reg_7da01aca-d6f9-4a0c-a97c-abe451f5cc55","session_type":"ovulatory"}
+[2025-08-25T14:03:05.402Z] redirect_to_confirmation {"registration_id":"reg_7da01aca-d6f9-4a0c-a97c-abe451f5cc55","session_type":"ovulatory"}
+[2025-08-25T14:03:05.906Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:10:19.657Z] registration_form_view {"form_source":"luteal"}
+[2025-08-25T14:10:19.658Z] register_click {"button_location":"luteal"}
+[2025-08-25T14:10:31.809Z] registration_form_submit 
+[2025-08-25T14:10:34.123Z] registration_success {"registration_id":"reg_733d4e64-5cfc-4826-ade8-2d5ba9dd7279","session_type":"luteal"}
+[2025-08-25T14:10:34.123Z] redirect_to_confirmation {"registration_id":"reg_733d4e64-5cfc-4826-ade8-2d5ba9dd7279","session_type":"luteal"}
+[2025-08-25T14:10:34.604Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:13:25.870Z] registration_form_view {"form_source":"luteal"}
+[2025-08-25T14:13:25.871Z] register_click {"button_location":"luteal"}
+[2025-08-25T14:13:32.196Z] form_field_validation_error {"field_name":"privacyConsent","error_message":"Please agree to the privacy policy to continue"}
+[2025-08-25T14:13:36.719Z] registration_form_submit 
+[2025-08-25T14:13:38.679Z] registration_success {"registration_id":"reg_16388543-e9d2-4849-8e15-ee07c90d934d","session_type":"luteal"}
+[2025-08-25T14:13:38.679Z] redirect_to_confirmation {"registration_id":"reg_16388543-e9d2-4849-8e15-ee07c90d934d","session_type":"luteal"}
+[2025-08-25T14:13:38.839Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:13:49.940Z] workshop_confirmation_view {"session_type":"luteal","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:19:32.155Z] registration_form_view {"form_source":"follicular"}
+[2025-08-25T14:19:32.156Z] register_click {"button_location":"follicular"}
+[2025-08-25T14:19:40.537Z] registration_form_submit 
+[2025-08-25T14:19:41.853Z] registration_error {"error_message":"This email is already registered for this workshop session.","status_code":409}
+[2025-08-25T14:19:41.854Z] registration_error {"error_message":"This email is already registered for this workshop session."}
+[2025-08-25T14:19:48.693Z] registration_form_submit 
+[2025-08-25T14:19:49.378Z] registration_success {"registration_id":"reg_42e9e333-08b1-4f04-bdca-ca84353450fd","session_type":"follicular"}
+[2025-08-25T14:19:49.378Z] redirect_to_confirmation {"registration_id":"reg_42e9e333-08b1-4f04-bdca-ca84353450fd","session_type":"follicular"}
+[2025-08-25T14:19:49.703Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:29:27.875Z] calendar_add_success {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T14:29:27.876Z] calendar_add_attempt {"calendar_platform":"google","session_type":"follicular"}
+[2025-08-25T14:29:40.217Z] preworkshop_download {"file_type":"Quick Cycle Assessment","session_type":"follicular","download_order":1}
+[2025-08-25T14:34:29.842Z] workshop_confirmation_view {"session_type":"follicular","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-25T14:38:12.082Z] register_click {"button_location":"follicular"}
+[2025-08-25T14:38:12.083Z] registration_form_view {"form_source":"follicular"}
+[2025-08-25T14:38:41.127Z] register_click {"button_location":"luteal"}
+[2025-08-25T14:38:41.127Z] registration_form_view {"form_source":"luteal"}
+[2025-08-25T14:38:43.067Z] register_click {"button_location":"menstrual"}
+[2025-08-25T14:38:43.068Z] registration_form_view {"form_source":"menstrual"}
+[2025-08-25T14:38:56.511Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T14:38:56.512Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T14:39:39.572Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T14:39:39.573Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T14:39:49.762Z] register_click {"button_location":"luteal"}
+[2025-08-25T14:39:49.763Z] registration_form_view {"form_source":"luteal"}
+[2025-08-25T14:40:05.064Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T14:40:05.064Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T14:42:38.669Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-25T14:42:38.670Z] register_click {"button_location":"ovulatory"}
+[2025-08-25T14:42:51.762Z] registration_form_submit 
+[2025-08-25T14:42:54.781Z] registration_error {"error_message":"This email is already registered for this workshop session.","status_code":409}
+[2025-08-25T14:42:54.782Z] registration_error {"error_message":"This email is already registered for this workshop session."}
+[2025-08-25T14:43:00.262Z] registration_form_submit 
+[2025-08-25T14:43:01.118Z] registration_success {"registration_id":"reg_764e2e77-3ab2-4906-b105-528dd6b2a1d3","session_type":"ovulatory"}
+[2025-08-25T14:43:01.118Z] redirect_to_confirmation {"registration_id":"reg_764e2e77-3ab2-4906-b105-528dd6b2a1d3","session_type":"ovulatory"}
+[2025-08-25T14:43:01.477Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T04:23:17.848Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T04:25:26.200Z] register_click {"button_location":"all"}
+[2025-08-26T04:25:26.202Z] registration_form_view {"form_source":"all"}
+[2025-08-26T04:25:49.627Z] registration_form_submit 
+[2025-08-26T04:25:51.529Z] registration_success {"registration_id":"reg_ae650ac7-0b2f-49cf-9e78-78d130071559","session_type":"all"}
+[2025-08-26T04:25:51.530Z] redirect_to_confirmation {"registration_id":"reg_ae650ac7-0b2f-49cf-9e78-78d130071559","session_type":"all"}
+[2025-08-26T04:25:51.932Z] workshop_confirmation_view {"session_type":"all","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T04:27:21.969Z] register_click {"button_location":"all"}
+[2025-08-26T04:27:21.971Z] registration_form_view {"form_source":"all"}
+[2025-08-26T05:24:09.220Z] registration_form_view {"form_source":"all"}
+[2025-08-26T05:24:09.222Z] register_click {"button_location":"all"}
+[2025-08-26T05:34:09.448Z] registration_form_view {"form_source":"luteal"}
+[2025-08-26T05:34:09.450Z] register_click {"button_location":"luteal"}
+[2025-08-26T05:34:11.504Z] register_click {"button_location":"all"}
+[2025-08-26T05:34:11.505Z] registration_form_view {"form_source":"all"}
+[2025-08-26T05:48:38.032Z] registration_form_view {"form_source":"all"}
+[2025-08-26T05:48:38.034Z] register_click {"button_location":"all"}
+[2025-08-26T05:48:52.557Z] registration_form_submit 
+[2025-08-26T05:48:55.116Z] registration_error {"error_message":"This email is already registered for this workshop session.","status_code":409}
+[2025-08-26T05:48:55.117Z] registration_error {"error_message":"This email is already registered for this workshop session."}
+[2025-08-26T05:49:00.205Z] registration_form_submit 
+[2025-08-26T05:49:00.919Z] registration_success {"registration_id":"reg_e95b7ddd-e40d-4e5e-a6fc-f0cd53c97021","session_type":"all"}
+[2025-08-26T05:49:00.920Z] redirect_to_confirmation {"registration_id":"reg_e95b7ddd-e40d-4e5e-a6fc-f0cd53c97021","session_type":"all"}
+[2025-08-26T05:49:01.353Z] workshop_confirmation_view {"session_type":"all","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T05:53:14.661Z] registration_form_view {"form_source":"all"}
+[2025-08-26T05:53:14.662Z] register_click {"button_location":"all"}
+[2025-08-26T05:53:28.846Z] registration_form_submit 
+[2025-08-26T05:53:30.960Z] registration_success {"registration_id":"reg_04a67b16-57eb-4bbb-8b8a-439f1da44660","session_type":"all"}
+[2025-08-26T05:53:30.961Z] redirect_to_confirmation {"registration_id":"reg_04a67b16-57eb-4bbb-8b8a-439f1da44660","session_type":"all"}
+[2025-08-26T05:53:31.447Z] workshop_confirmation_view {"session_type":"all","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T05:57:52.292Z] calendar_add_attempt {"calendar_platform":"google","session_type":"all"}
+[2025-08-26T05:57:52.360Z] calendar_add_success {"calendar_platform":"google","session_type":"all"}
+[2025-08-26T06:00:28.680Z] workshop_confirmation_view {"session_type":"all","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T06:00:56.371Z] register_click {"button_location":"all"}
+[2025-08-26T06:00:56.372Z] registration_form_view {"form_source":"all"}
+[2025-08-26T06:01:08.643Z] registration_form_submit 
+[2025-08-26T06:01:10.959Z] registration_success {"registration_id":"reg_b3037cf5-26b3-4c9e-bc3e-786fc1cf074f","session_type":"all-sessions"}
+[2025-08-26T06:01:10.959Z] redirect_to_confirmation {"registration_id":"reg_b3037cf5-26b3-4c9e-bc3e-786fc1cf074f","session_type":"all-sessions"}
+[2025-08-26T06:03:19.923Z] workshop_confirmation_view {"session_type":"all-sessions","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T06:04:07.278Z] calendar_add_attempt {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:07.337Z] calendar_add_success {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:12.003Z] calendar_add_attempt {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:12.038Z] calendar_add_success {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:16.855Z] calendar_add_attempt {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:16.919Z] calendar_add_success {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:20.433Z] calendar_add_attempt {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:20.496Z] calendar_add_success {"calendar_platform":"google","session_type":"all-sessions"}
+[2025-08-26T06:04:38.666Z] register_click {"button_location":"ovulatory"}
+[2025-08-26T06:04:38.667Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-26T06:04:59.011Z] registration_form_submit 
+[2025-08-26T06:05:01.424Z] registration_success {"registration_id":"reg_467d3193-0ccc-4b3a-8d02-84d7766ea35e","session_type":"ovulatory"}
+[2025-08-26T06:05:01.424Z] redirect_to_confirmation {"registration_id":"reg_467d3193-0ccc-4b3a-8d02-84d7766ea35e","session_type":"ovulatory"}
+[2025-08-26T06:05:01.807Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-26T06:05:42.614Z] workshop_confirmation_view {"session_type":"ovulatory","registration_source":"direct","user_type":"new_registrant"}
+[2025-08-27T08:44:54.777Z] registration_form_view {"form_source":"all"}
+[2025-08-27T08:44:54.780Z] register_click {"button_location":"all"}
+[2025-08-27T08:45:18.593Z] register_click {"button_location":"luteal"}
+[2025-08-27T08:45:18.595Z] registration_form_view {"form_source":"luteal"}
+2025-08-28T10:19:01.105Z - feedback_vote - blog_id=c1d2e3f4-a5b6-7890-1234-567890abcdef vote_type=helpful result=created user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+[2025-08-28T11:13:03.426Z] registration_form_view {"form_source":"ovulatory"}
+[2025-08-28T11:13:03.428Z] register_click {"button_location":"ovulatory"}
+2025-09-02T08:31:18.380Z - feedback_vote - blog_id=f47ac10b-58cc-4372-a567-0e02b2c3d479 vote_type=helpful result=noop user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-09-02T08:34:39.016Z - feedback_vote - blog_id=c1d2e3f4-a5b6-7890-1234-567890abcdef vote_type=helpful result=noop user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+2025-09-02T08:34:51.349Z - feedback_vote - blog_id=c1d2e3f4-a5b6-7890-1234-567890abcdef vote_type=helpful result=noop user_hash=a683606b719e1919 ip_hash=eff8e7ca506627fe source=blog_page
+[2025-09-02T08:59:27.662Z] registration_form_view {"form_source":"ovulatory"}
+[2025-09-02T08:59:27.663Z] register_click {"button_location":"ovulatory"}
+[2025-09-02T08:59:30.888Z] register_click {"button_location":"all"}
+[2025-09-02T08:59:30.890Z] registration_form_view {"form_source":"all"}
+[2025-09-02T08:59:32.796Z] register_click {"button_location":"menstrual"}
+[2025-09-02T08:59:32.796Z] registration_form_view {"form_source":"menstrual"}
+[2025-09-02T08:59:44.737Z] register_click {"button_location":"luteal"}
+[2025-09-02T08:59:44.738Z] registration_form_view {"form_source":"luteal"}
+[2025-09-03T05:57:38.664Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-09-05T03:11:12.710Z] Download {"category":"PDF","label":"7-Day Bloating Reset Tracker","timestamp":"2025-09-05T03:11:11.903Z"}
+[2025-09-17T11:02:35.266Z] registration_form_view {"form_source":"ovulatory"}
+[2025-09-17T11:02:35.268Z] register_click {"button_location":"ovulatory"}
+[2025-09-17T11:03:27.902Z] register_click {"button_location":"all"}
+[2025-09-17T11:03:27.912Z] registration_form_view {"form_source":"all"}
+[2025-09-24T10:09:18.972Z] registration_form_view {"form_source":"all"}
+[2025-09-24T10:09:18.975Z] register_click {"button_location":"all"}
+[2025-09-24T11:10:41.479Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
+[2025-09-24T11:19:00.892Z] Click {"category":"Affiliate","label":"Gas-X Extra Strength Softgels (125 mg simethicone)"}

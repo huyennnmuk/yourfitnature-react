@@ -1,0 +1,37 @@
+## What Exactly Shows in the Perplexity 3 Dots Button Tab
+
+When you click the **three-dot (...) button** in Perplexity (usually located beside each answer or thread section), a contextual menu appears with several actionable options specific to that content. Based on the official help documentation and feature descriptions, the typical actions in this menu include:
+
+- **View Sources**: Shows the sources used for the AI’s response and lets you verify citations or click through to the original webpages.
+- **Report Feedback**: Allows you to give feedback on the response (such as marking it as not helpful or flagging issues).
+- **Delete**: Lets you remove that particular answer or thread portion from your view or your history.[1]
+
+The menu may also surface additional context-specific actions such as:
+
+- **Share**: Copy a link or share the thread/response with others.
+- **Edit Query**: Change the question that generated the response.
+- **Move to Space / Add Tag**: Organize the content into a workspace or apply categorization.
+
+The set of options offered will be relevant to the item (thread, answer, response) where the three-dot menu is clicked, helping manage, organize, and interact with conversations and results efficiently.[1]
+
+[1] https://www.perplexity.ai/help-center/en/articles/10354769-what-is-a-thread
+[2] https://www.perplexity.ai/search/describe-features-in-the-given-OajfxW.ORhGzTlmlU6j1KQ
+[3] https://www.perplexity.ai/help-center/en/articles/11132456-how-to-use-the-perplexity-voice-assistant-for-ios
+[4] https://www.reddit.com/r/perplexity_ai/comments/1fq4cwv/there_should_be_an_option_so_that_upon_opening/
+[5] https://www.reddit.com/r/perplexity_ai/comments/1abljgj/how_to_add_perplexity_as_a_default_or_alternate/
+[6] https://stackoverflow.com/questions/50553924/how-to-make-the-overflow-button-the-three-dots-open-settings-right-away
+[7] https://www.youtube.com/watch?v=YyOx0e5YsM8
+[8] https://flyonui.com/docs/navigations/menu/
+[9] https://www.geeky-gadgets.com/perplexity-ios-voice-assistant/
+[10] https://www.youtube.com/watch?v=hz_4nXPl140
+[11] https://connect.mozilla.org/t5/discussions/the-unified-extensions-menu-is-not-what-i-want-from-firefox/m-p/44678
+[12] https://www.meetjamie.ai/blog/what-is-perplexity-ai
+[13] https://learnprompting.org/blog/guide-perplexity
+[14] https://stackoverflow.com/questions/77433100/how-to-get-perplexity-per-token-rather-than-average-perplexity
+[15] https://www.weetechsolution.com/blog/fix-perplexity-not-working-error
+[16] https://www.perplexity.ai/help-center/en/articles/10352990-account-settings
+[17] https://zapier.com/blog/perplexity-vs-chatgpt/
+[18] https://community.make.com/t/create-a-chat-completion-with-perplexity-not-running/78493
+[19] https://www.reddit.com/r/perplexity_ai/comments/1j6d87k/anyone_else_feeling_perplexity_is_changing_to_fast/
+[20] https://www.perplexity.ai/help-center/en/
+[21] https://www.perplexity.ai/help-center/en/articles/10354781-generating-images-with-perplexity

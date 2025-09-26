@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7-Day Bloating Reset Tracker - Design Draft</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            color: #333;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .tracker-container {
+            max-width: 800px;
+            margin: auto;
+            border: 1px solid #ddd;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #4CAF50; /* Example brand color */
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .header img {
+            max-width: 150px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #4CAF50;
+        }
+        .intro {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .day-section {
+            margin-bottom: 30px;
+            border: 1px solid #eee;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .day-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        .day-header h2 {
+            margin: 0;
+        }
+        .daily-tip {
+            font-style: italic;
+            color: #555;
+            background-color: #f0f8ff;
+            padding: 10px;
+            border-left: 3px solid #4CAF50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .action-steps ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .action-steps li {
+            margin-bottom: 5px;
+        }
+        .notes-section textarea {
+            width: 100%;
+            height: 80px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        @media print {
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .tracker-container {
+                border: none;
+                box-shadow: none;
+                padding: 0;
+            }
+            .header, .intro, .day-section {
+                page-break-inside: avoid;
+            }
+            table {
+                width: 100%;
+            }
+            th, td {
+                border: 1px solid #000;
+            }
+            .notes-section textarea {
+                border: 1px solid #000;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="tracker-container">
+        <div class="header">
+            <!-- Placeholder for logo -->
+            <img src="https://yourfitnature.com/YourFitNature.svg" alt="YourFitNature Logo" style="height:50px;">
+            <h1>7-Day Bloating Reset Tracker</h1>
+        </div>
+
+        <div class="intro">
+            <p><strong>Introduction:</strong> Welcome to your 7-Day Bloating Reset! This tracker is designed to help you pinpoint the triggers behind your bloating. For the next seven days, diligently log your meals, symptoms, and daily habits. This simple act of tracking is the most powerful first step you can take toward a calmer, more comfortable gut. Note any patterns you see emerging.</p>
+        </div>
+
+        <!-- Day 1 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 1</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Drink a glass of water 30 minutes before each meal. This can help prime your digestion and prevent overeating, both of which are key to reducing bloat.</p>
+            </div>
+            <table>
+                <tr>
+                    <th>Meal</th>
+                    <th>Food/Drink Consumed</th>
+                </tr>
+                <tr>
+                    <td>Breakfast</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Lunch</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dinner</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Snacks</td>
+                    <td></td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <th>Symptom Tracking</th>
+                    <th>Details (Severity: 1-5, Timing, Notes)</th>
+                </tr>
+                <tr>
+                    <td>Bloating</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>Water Intake (glasses)</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>Supplements</td>
+                    <td></td>
+                </tr>
+            </table>
+            <div class="action-steps">
+                <h4>Daily Action Steps:</h4>
+                <ul>
+                    <li><input type="checkbox"> Drank water 30 mins before meals.</li>
+                    <li><input type="checkbox"> Chewed each bite of food thoroughly.</li>
+                </ul>
+            </div>
+            <div class="notes-section">
+                <h4>Additional Notes:</h4>
+                <textarea></textarea>
+            </div>
+        </div>
+        
+        <!-- Day 2 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 2</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Try a short, 5-10 minute walk after your largest meal. Gentle movement can stimulate digestion and help move gas through your system.</p>
+            </div>
+            <!-- ... tables and inputs for day 2 ... -->
+        </div>
+
+        <!-- Day 3 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 3</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Avoid drinking carbonated beverages today, including sparkling water. The fizz can introduce excess gas into your digestive system.</p>
+            </div>
+            <!-- ... tables and inputs for day 3 ... -->
+        </div>
+
+        <!-- Day 4 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 4</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Add a teaspoon of ginger to your tea or a meal. Ginger is well-known for its ability to soothe the digestive tract and relieve nausea.</p>
+            </div>
+            <!-- ... tables and inputs for day 4 ... -->
+        </div>
+
+        <!-- Day 5 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 5</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Focus on eating in a relaxed state. Avoid eating while stressed, working, or watching TV. Your digestive system works best when your body is calm.</p>
+            </div>
+            <!-- ... tables and inputs for day 5 ... -->
+        </div>
+
+        <!-- Day 6 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 6</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Consider a low-FODMAP snack today, like a handful of blueberries or a kiwi. FODMAPs are types of carbohydrates that can be difficult for some people to digest.</p>
+            </div>
+            <!-- ... tables and inputs for day 6 ... -->
+        </div>
+
+        <!-- Day 7 Section -->
+        <div class="day-section">
+            <div class="day-header">
+                <h2>Day 7</h2>
+                <p>Date: _______________</p>
+            </div>
+            <div class="daily-tip">
+                <p><strong>Tip of the day:</strong> Reflect on your notes from the week. Do you see any connections between a specific food and your bloating symptoms? This is your first clue!</p>
+            </div>
+            <!-- ... tables and inputs for day 7 ... -->
+        </div>
+
+        <p style="text-align:center; font-style:italic;">At the end of the week, review your tracker to identify patterns. What will you change next week?</p>
+
+    </div>
+
+</body>
+</html>
