@@ -124,7 +124,8 @@ const BloatingBreakthroughBlueprintPage = () => {
         <ContentWithImageSection
           title="Your Bloating Recovery Roadmap"
           description="Ready for long-term relief? Our roadmap provides a phased, comprehensive protocol to guide you every step of the way. From foundational habits to advanced strategies, we've got you covered."
-          images={["/images/Benefits of Your Bloating Recovery Roadmap.png", "/images/How Your Bloating Recovery Roadmap.png", "/images/Quote Bloating Recovery Roadmap.png"]}
+          images={["/images/Benefits%20of%20Your%20Bloating%20Recovery%20Roadmap.png", "/images/How%20Your%20Bloating%20Recovery%20Roadmap.png", "/images/Quote%20Bloating%20Recovery%20Roadmap.png"]}
+
           buttonText="Start the Roadmap"
           buttonLink="/bloating-recovery-roadmap"
         />
