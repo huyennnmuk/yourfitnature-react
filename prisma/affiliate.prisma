@@ -1,7 +1,7 @@
 
 generator affiliateClient {
   provider = "prisma-client-js"
-  output   = "../node_modules/.prisma/affiliate-client"
+  output   = "../node_modules/@prisma/affiliate-client"
 }
 
 datasource db {

@@ -1,4 +1,4 @@
-import { PrismaClient } from '@/node_modules/.prisma/affiliate-client';
+import { PrismaClient } from '../../node_modules/.prisma/affiliate-client';
 
 const affiliatePrisma = new PrismaClient();
 
