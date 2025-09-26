@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useState, useEffect, Fragment } from 'react';
 import ThemeSwitcher from './ThemeSwitcher';
 import React from 'react';
+import logo from '@/public/images/YourFitNatureplusDescription.png';
 
 interface NavItem {
   name: string;
@@ -76,7 +77,7 @@ export default function Header({ navItems = defaultNavItems, secondaryNavItems =
             <div className="flex items-center justify-center flex-shrink-0">
               <Link href="/" className="block" aria-label="YourFitNature Home">
                 <Image
-                  src="/images/YourFitNatureplusDescription.png"
+                  src={logo}
                   alt="YourFitNatureplusDescription Logo"
                   width={260}
                   height={64}
