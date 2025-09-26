@@ -46,7 +46,7 @@ const Phase4Page = () => {
     { "time": "05:40", "title": "Harnessing the Connection", "description": "Tools like breathing, fiber, and awareness of gut-mind patterns." },
     { "time": "06:00", "title": "Closing Reflection", "description": "Your gut and brain are locked in conversation—listen to it daily." }
   ],
-  };,
+  };
   const [carouselProducts, setCarouselProducts] = React.useState<Product[]>([]);
 
   React.useEffect(() => {
