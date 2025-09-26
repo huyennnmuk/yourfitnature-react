@@ -9,7 +9,7 @@
     "lint": "next lint",
     "test": "jest",
     "export": "next export",
-    "postinstall": "prisma generate --schema=./prisma/affiliate.prisma"
+    "postinstall": "prisma generate && prisma generate --schema=./prisma/affiliate.prisma"
   },
   "dependencies": {
     "@apollo/client": "^3.13.9",
