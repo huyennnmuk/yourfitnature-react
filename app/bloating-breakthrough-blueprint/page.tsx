@@ -117,32 +117,14 @@ const BloatingBreakthroughBlueprintPage = () => {
         <WorkshopCTA />
         {/* END SECTION: Workshop CTA */}
 
-        {/* SECTION: Two Column Feature */}
-        <TwoColumnFeature
-          title="What&apos;s Inside the Blueprint?"
-          subtitle="A sneak peek into the tools that will change your relationship with food."
-          leftColumn={
-            <div className="prose lg:prose-xl">
-              <h3>The Ultimate Toolkit for Gut Wellness</h3>
-              <p>The Bloating Breakthrough Blueprint isn&apos;t just a collection of tips; it&apos;s a curated arsenal of our most effective resources. Each tool is designed to bring you one step closer to understanding your body and achieving lasting relief.</p>
-              <ul>
-                <li><strong>Bloating Trigger Detective Quiz:</strong> Pinpoint your personal triggers with our quick and insightful quiz.</li>
-                <li><strong>7-Day Bloating Reset Tracker:</strong> A simple yet powerful tool to monitor your symptoms and identify patterns.</li>
-                <li><strong>Bloating SOS Toolkit:</strong> Your go-to guide for immediate relief when you need it most.</li>
-              </ul>
-            </div>
-          }
-          rightColumn={
-            <img src="/img/Benefits of Your Bloating Recovery Roadmap.png" alt="Benefits of the Bloating Breakthrough Blueprint" className="rounded-lg shadow-lg" />
-          }
-        />
+        
         {/* END SECTION: Two Column Feature */}
 
         {/* SECTION: Recovery Roadmap */}
         <ContentWithImageSection
           title="Your Bloating Recovery Roadmap"
           description="Ready for long-term relief? Our roadmap provides a phased, comprehensive protocol to guide you every step of the way. From foundational habits to advanced strategies, we've got you covered."
-          images={["/img/Benefits of Your Bloating Recovery Roadmap.png", "/img/How Your Bloating Recovery Roadmap.png", "/img/Quote Bloating Recovery Roadmap.png"]}
+          images={["/images/Benefits of Your Bloating Recovery Roadmap.png", "/images/How Your Bloating Recovery Roadmap.png", "/images/Quote Bloating Recovery Roadmap.png"]}
           buttonText="Start the Roadmap"
           buttonLink="/bloating-recovery-roadmap"
         />

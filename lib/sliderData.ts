@@ -6,7 +6,7 @@ export const sliderData = [
 {
   title: 'Streamline Your Supplement Routine',
   description: 'Our AI engine pinpoints the right probiotic, prebiotic, or enzyme blend for your unique gut goals—automatically.',
-  imageUrl: '/img/StreamlineYourSupplementRoutine.png',
+  imageUrl: '/images/StreamlineYourSupplementRoutine.png',
   features: [
     'Symptom-based product matching',
     'Daily dosage reminders via email/SMS',
@@ -18,7 +18,7 @@ export const sliderData = [
 {
   title: '360° Ingredient Transparency',
   description: 'See every strain, source, and study behind the products you choose—no hidden fillers, ever.',
-  imageUrl: '/img/360°IngredientTransparency.png',
+  imageUrl: '/images/360-degree-IngredientTransparency.png',
   features: [
     'Live certificate-of-analysis (COA) links',
     'Strain-level potency tracking',
@@ -31,7 +31,7 @@ export const sliderData = [
 {
   title: 'Expert Gut Guidance',
   description: 'Work with specialists who understand bloating, IBS, and everything in-between—so you never feel lost.',
-  imageUrl: '/img/ExpertGutGuidance.png',
+  imageUrl: '/images/ExpertGutGuidance.png',
   features: [
     'Dedicated gut-health coach',
     'Weekly progress nudges & tips',

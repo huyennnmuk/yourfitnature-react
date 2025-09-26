@@ -386,3 +386,5 @@
 [2025-09-24T10:09:18.975Z] register_click {"button_location":"all"}
 [2025-09-24T11:10:41.479Z] Download {"category":"PDF","label":"Bloating SOS Emergency Toolkit"}
 [2025-09-24T11:19:00.892Z] Click {"category":"Affiliate","label":"Gas-X Extra Strength Softgels (125 mg simethicone)"}
+[2025-09-26T11:14:05.756Z] registration_form_view {"form_source":"ovulatory"}
+[2025-09-26T11:14:05.759Z] register_click {"button_location":"ovulatory"}

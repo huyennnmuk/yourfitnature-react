@@ -24,7 +24,7 @@ const AboutUsPage: NextPage = () => {
   const founderData = {
     title: "Meet the Founder",
     description: "I am a passionate solopreneur who turned personal health struggles into purpose. After years of navigating gut issues, they uncovered the link between digestive wellness and mental clarity. Today, they combine science-backed education, storytelling, and digital tools to simplify the wellness journey, aiming to make gut healing empowering, not overwhelming.",
-    images: ['/pencil-drawing-cofounder.png'],
+    images: ['/images/pencil-drawing-cofounder.png'],
     buttonText: "Learn More",
     buttonLink: "/about-us",
     imageClassName: "w-64 h-64 rounded-full overflow-hidden shadow-2xl"

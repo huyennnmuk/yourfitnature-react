@@ -45,7 +45,7 @@ const Footer: React.FC<FooterProps> = ({
           <div className="flex flex-row items-center space-x-4">
             <Link href="/" className="block" aria-label="YourFitNature Home">
               <Image
-                src="/YourFitNatureplusdescription.svg"
+                src="/images/YourFitNatureplusdescription.svg"
                 alt="YourFitNatureplusdescription Logo"
                 width={260}
                 height={64}

@@ -58,7 +58,7 @@ export default function RoadmapPage() {
             transition={{ duration: 0.3 }}
           >
             <div className="flex justify-center">
-              <Image src="/svg/FlowchartSimplicity.svg" alt="Roadmap Icon" width={100} height={100} className="text-camber-sage-primary" />
+              <Image src="/images/FlowchartSimplicity.svg" alt="Roadmap Icon" width={100} height={100} className="text-camber-sage-primary" />
             </div>
             <div className="space-y-2">
                 <h1 className="typography-h1 text-camber-text-primary">Bloating Recovery Roadmap</h1>
