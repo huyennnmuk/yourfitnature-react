@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState, useEffect, Fragment } from 'react';
 import ThemeSwitcher from './ThemeSwitcher';
 import React from 'react';
-import logo from '@/public/images/YourFitNatureplusDescription.png';
+import logo from '@/public/images/yourfitnature_logo.png';
 
 interface NavItem {
   name: string;
@@ -78,10 +78,11 @@ export default function Header({ navItems = defaultNavItems, secondaryNavItems =
               <Link href="/" className="block" aria-label="YourFitNature Home">
                 <Image
                   src={logo}
-                  alt="YourFitNatureplusDescription Logo"
+                  alt="YourFitNature Logo"
                   width={260}
                   height={64}
                   priority
+                  unoptimized={true}
                   className="mx-auto"
                   style={{ filter: 'drop-shadow(0 1px 2px rgba(0,0,0,0.04))' }}
                 />
