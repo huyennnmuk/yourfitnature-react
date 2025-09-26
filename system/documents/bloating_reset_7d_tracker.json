@@ -1,3 +1,271 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00e1b33dc14b26b34189d8f1ccf1cfc9e858a61606ca8e366226d714a0a01aa8
-size 6938
+{
+  "meta": {
+    "id": "bloating-reset-7d",
+    "version": "1.0.0",
+    "lang": "en",
+    "title": "7-Day Bloating Reset Tracker",
+    "description": "Daily logging and quick actions to identify triggers and reduce bloating in one week."
+  },
+  "daily_template": {
+    "fields": [
+      {
+        "id": "date",
+        "type": "date",
+        "label": "Date",
+        "required": true
+      },
+      {
+        "id": "sleep_hours",
+        "type": "number",
+        "label": "Sleep (hrs)",
+        "min": 0,
+        "max": 24
+      },
+      {
+        "id": "water_ml",
+        "type": "number",
+        "label": "Water (ml)",
+        "min": 0,
+        "max": 6000
+      },
+      {
+        "id": "meals",
+        "type": "list",
+        "item": {
+          "fields": [
+            {
+              "id": "time",
+              "type": "time",
+              "label": "Time"
+            },
+            {
+              "id": "foods",
+              "type": "text",
+              "label": "What you ate"
+            },
+            {
+              "id": "notes",
+              "type": "text",
+              "label": "Notes"
+            }
+          ]
+        }
+      },
+      {
+        "id": "symptoms",
+        "type": "group",
+        "label": "Symptoms (0\u20135)",
+        "fields": [
+          {
+            "id": "bloat",
+            "type": "number",
+            "min": 0,
+            "max": 5
+          },
+          {
+            "id": "gas",
+            "type": "number",
+            "min": 0,
+            "max": 5
+          },
+          {
+            "id": "pain",
+            "type": "number",
+            "min": 0,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "id": "bm",
+        "type": "group",
+        "label": "Bowel Movements",
+        "fields": [
+          {
+            "id": "count",
+            "type": "number",
+            "min": 0,
+            "max": 10
+          },
+          {
+            "id": "consistency",
+            "type": "single_choice",
+            "options": [
+              "loose",
+              "normal",
+              "hard"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "movement",
+        "type": "single_choice",
+        "label": "Movement today",
+        "options": [
+          "10-minute walk",
+          "Workout",
+          "Rest"
+        ]
+      },
+      {
+        "id": "breathing",
+        "type": "boolean",
+        "label": "5-minute belly breathing"
+      },
+      {
+        "id": "supplements",
+        "type": "multi_choice",
+        "label": "Supplements taken",
+        "options": [
+          "Digestive enzymes",
+          "Peppermint oil (enteric-coated)",
+          "Probiotic",
+          "Ginger tea"
+        ]
+      },
+      {
+        "id": "wins",
+        "type": "text",
+        "label": "Wins"
+      },
+      {
+        "id": "notes",
+        "type": "text",
+        "label": "Notes"
+      }
+    ]
+  },
+  "days": [
+    {
+      "day": 1,
+      "focus": "Baseline + remove obvious triggers (carbonation, gum)",
+      "actions": [
+        "Warm water + 10-minute walk after meals",
+        "Avoid carbonated drinks, gum and straws",
+        "Log your meals and symptoms before bed"
+      ]
+    },
+    {
+      "day": 2,
+      "focus": "Dairy check",
+      "actions": [
+        "Replace milk/ice cream with lactose-free or plant-based alternatives",
+        "If you test a dairy item, consider using a lactase enzyme",
+        "Continue logging meals and symptoms"
+      ]
+    },
+    {
+      "day": 3,
+      "focus": "FODMAP hotspots",
+      "actions": [
+        "Reduce or avoid high-FODMAP foods like onion, garlic, beans and wheat",
+        "Use herbs and spices like ginger or turmeric for flavor",
+        "Review your log to look for early patterns"
+      ]
+    },
+    {
+      "day": 4,
+      "focus": "Meal timing & portions",
+      "actions": [
+        "Avoid late heavy dinners; aim for 3 balanced meals",
+        "Eat slowly and chew thoroughly",
+        "Take a 10-minute walk after your largest meal"
+      ]
+    },
+    {
+      "day": 5,
+      "focus": "Constipation support",
+      "actions": [
+        "Hydration goal: 2,000\u20132,500 ml of water",
+        "Include fiber sources like oats or kiwi if tolerated",
+        "Gentle movement to stimulate bowel motility"
+      ]
+    },
+    {
+      "day": 6,
+      "focus": "Stress & breath",
+      "actions": [
+        "Practice 5-minute belly breathing after lunch and dinner",
+        "Do a relaxing activity such as yoga, stretching or a nature walk",
+        "Continue tracking how stress affects your symptoms"
+      ]
+    },
+    {
+      "day": 7,
+      "focus": "Reintroduce one item",
+      "actions": [
+        "Choose one food you eliminated to test today",
+        "Eat it in isolation and track symptoms for 4\u20136 hours",
+        "Reflect on the week and prepare next steps"
+      ]
+    }
+  ],
+  "milestones": {
+    "day3_check": {
+      "prompt": "Patterns so far? Any early suspects?",
+      "fields": [
+        "suspected_triggers",
+        "what_helped"
+      ]
+    },
+    "day7_review": {
+      "prompt": "Top 1\u20132 likely triggers and next week plan",
+      "fields": [
+        "top_triggers",
+        "next_steps"
+      ]
+    }
+  },
+  "insight_rules": [
+    {
+      "id": "dairy_flag",
+      "if": "meals contains dairy AND symptoms.bloat>=3",
+      "then": "Dairy/lactose may be a trigger. Consider lactase or avoidance."
+    },
+    {
+      "id": "fodmap_flag",
+      "if": "meals contains onion|garlic|beans|wheat AND symptoms.bloat>=3",
+      "then": "High-FODMAP foods may be contributing."
+    },
+    {
+      "id": "constipation_flag",
+      "if": "bm.count<=3 AND symptoms.bloat>=3",
+      "then": "Constipation-related bloating likely; prioritize hydration, fiber if tolerated, walking."
+    },
+    {
+      "id": "timing_flag",
+      "if": "late/heavy dinner AND symptoms.bloat>=3",
+      "then": "Late heavy meals may be driving symptoms; shift earlier/lighter."
+    }
+  ],
+  "recommended_products": [
+    {
+      "title": "Digestive Enzymes",
+      "category": "Digestive Enzymes",
+      "url": "https://www.amazon.com/s?k=digestive+enzymes&tag=fitnature8888-20"
+    },
+    {
+      "title": "Enteric-Coated Peppermint Oil",
+      "category": "Herbal",
+      "url": "https://www.amazon.com/s?k=peppermint+oil+ibs+enteric+coated&tag=fitnature8888-20"
+    },
+    {
+      "title": "Probiotic",
+      "category": "Probiotics",
+      "url": "https://www.amazon.com/s?k=probiotic&tag=fitnature8888-20"
+    },
+    {
+      "title": "Ginger Tea",
+      "category": "Herbal",
+      "url": "https://www.amazon.com/s?k=ginger+tea&tag=fitnature8888-20"
+    }
+  ],
+  "printable": {
+    "include_checklist": true,
+    "include_water_tracker": true
+  },
+  "red_flags": {
+    "message": "If you experience severe or worsening abdominal pain, fever, persistent vomiting, blood in stool, unexplained weight loss or symptoms that do not improve, seek medical care."
+  }
+}
