@@ -1,4 +1,4 @@
-public/** -filter -diff -merge -text
+git lfs untrack "*.svg"
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.svg filter=lfs diff=lfs merge=lfs -text
 *.ico filter=lfs diff=lfs merge=lfs -text
